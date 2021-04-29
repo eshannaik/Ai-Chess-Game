@@ -7,8 +7,7 @@
     
 ____________________________________________________________
 #### Libraries used are:
-    Pandas
-    Numpy
+    IPython
     Time
     Random
     Chess
